@@ -4,8 +4,6 @@
 
 The Frankenstein Computer is an independent hardware/software co-design project to turn a custom RISC-V processor into a functioning computer. The long-term vision is to integrate interchangeable CPU microarchitectures, a lightweight operating system, peripherals, hardware accelerators, security experiments, and a custom FPGA motherboard.
 
-**Current focus:** **SCUFF-DOS**, a lightweight DOS-like environment running on an existing **dual-issue, in-order RV32I superscalar CPU** designed in SystemVerilog. GPU, NPU, out-of-order CPU, and custom-motherboard work are planned ideas—not completed features or committed deadlines.
-
 ## Project status
 
 | Component | Status | Scope |
