@@ -1,4 +1,4 @@
-# The Frankenstein Computer — SCUFF32
+# The Frankenstein Computer
 
 **A modular RISC-V FPGA computer built from the hardware up.**
 
